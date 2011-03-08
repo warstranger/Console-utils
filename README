@@ -1,0 +1,8 @@
+Miscellaneous console utils for nix.
+
+spaces2tabs.py
+------------------
+Convert spaces to tabs (or vice versa) in the beginning of each line from
+input file(s). Also right-stipping each line from empty chars and removing
+empty chars from visually empty lines. Report total lines that was processed
+and skipped.
