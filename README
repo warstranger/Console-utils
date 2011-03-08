@@ -11,3 +11,7 @@ walkman-convert.sh
 --------------------
 Convert video files using ffmpeg to format which Walkman media players
 understood. Tested on NWZ-A726.
+
+ru-html-convert.py
+--------------------
+Convert russian chars from command line (as arguments) to html entities.
